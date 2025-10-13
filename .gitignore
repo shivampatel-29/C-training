@@ -1,8 +1,0 @@
-﻿# build artifacts
-*.exe
-*.o
-*.obj
-*.out
-# editor / OS files
-*.swp
-.DS_Store
