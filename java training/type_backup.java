@@ -1,5 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
+class Main{
+    public static void main(String[] args){
         byte a=5;
         short b=5;
         int c=5;
@@ -7,5 +7,6 @@ public class Main {
         boolean data=false;
 
         System.out.println(b);
+         
     }
 }
