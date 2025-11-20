@@ -2,6 +2,7 @@ interface A{
     abstract void login();
 }
 class B implements A{
+    @Override
     public void login(){
         System.out.println("hellooooo");
     }

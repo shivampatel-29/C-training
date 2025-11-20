@@ -5,6 +5,7 @@ interface B{
       void login();
 }
 class C implements A,B{
+    @Override
     public void login(){
         System.out.println("httt jaa saamne se");
     }
